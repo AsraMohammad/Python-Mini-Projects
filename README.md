@@ -15,3 +15,4 @@ The `quiz_game.py` script presents the player with a series of questions and mul
 In `rock_paper_scissors.py`, you can play the classic game of Rock, Paper, Scissors against the computer. It's a game of chance and strategy where you compete against the computer to see who wins each round.
 
 Feel free to explore, play, and modify these scripts to your liking! Have fun coding! 🚀
+Also feel free to contribute
